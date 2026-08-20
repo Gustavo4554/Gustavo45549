@@ -28,4 +28,6 @@
 
 <br/>
 
+<p>Desenvolvedor com foco em Desenvolvimento Web, Front-end e Design, unindo tecnologia, criatividade e experiência do usuário na criação de interfaces modernas, funcionais e responsivas.</p>
+
 
